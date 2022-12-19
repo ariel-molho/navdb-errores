@@ -1,0 +1,69 @@
+{
+  "errores": [
+    {
+      "_id": {
+        "$oid": "5c74f9b49fc45813c0e3d931"
+      },
+      "HelpLink": null,
+      "Source": null,
+      "HResult": -2146233088,
+      "NombreExcepcion": "The remote server returned an error: (429) Too Many Requests.",
+      "Tipo": "DESCARGA_XML",
+      "NombreXml": null,
+      "IdObjeto": null,
+      "Log": null
+    },
+    {
+      "_id": {
+        "$oid": "5c74f9b49fc45813c0e3d932"
+      },
+      "HelpLink": null,
+      "Source": null,
+      "HResult": -2146233088,
+      "NombreExcepcion": "The remote server returned an error: (429) Too Many Requests.",
+      "Tipo": "DESCARGA_XML",
+      "NombreXml": null,
+      "IdObjeto": null,
+      "Log": null
+    },
+    {
+      "_id": {
+        "$oid": "5ca8a2d55e341108d40d1e3c"
+      },
+      "HelpLink": null,
+      "Source": null,
+      "HResult": -2146233088,
+      "NombreExcepcion": "System.AggregateException (PSOS): One or more errors occurred. (Object reference not set to an instance of an object.)",
+      "Tipo": "GENERACION_ARCHIVO_SALIDA",
+      "NombreXml": "Indefinido",
+      "IdObjeto": "Indefinido",
+      "Log": null
+    },
+    {
+      "_id": {
+        "$oid": "5cc6d4aefc9e511ae88149ec"
+      },
+      "HelpLink": null,
+      "Source": null,
+      "HResult": -2146233088,
+      "NombreExcepcion": "System.IO.IOException: The process cannot access the file 'C:\\inetpub\\AspNetCoreWebApps\\app\\NaventXmls\\NavplatRE_2.xml.45' because it is being used by another process.",
+      "Tipo": "IO",
+      "NombreXml": "NavplatRE_2.xml.45",
+      "IdObjeto": null,
+      "Log": null
+    },
+    {
+      "_id": {
+        "$oid": "62d81789cc55b9107c2a846b"
+      },
+      "HelpLink": null,
+      "Source": null,
+      "HResult": -2146233088,
+      "NombreExcepcion": "El archivo no se encontró: \r\n \r\n Por favor revise si la campaña modificó ultimamente las particiones o si el link de descarga es antiguo \r\n Nombre de archivo:  'C:\\inetpub\\AspNetCoreWebApps\\app\\GeneratedXmls\\IW-SALE-FB-Home-Listings.xml.19'.",
+      "Tipo": "DESCARGA_ARCHIVO_SALIDA",
+      "NombreXml": null,
+      "IdObjeto": null,
+      "Log": null
+    }
+  ]
+}
